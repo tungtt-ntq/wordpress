@@ -182,6 +182,20 @@ body {
         white-space: nowrap;
     }
 }
+@media (max-width:767px){
+    .footer .copy-right .list-sns-link {
+        justify-content: center;
+    }
+    .footer .copy-right .quick-links {
+        text-align: center;
+        display: block;
+    }
+}
+@media (max-width:435px){
+    .footer .copy-right .quick-links {
+        font-size: 14px;
+    }
+}
 /*Footer end*/
 /*Homepage start*/
 .homepage .img-slide {

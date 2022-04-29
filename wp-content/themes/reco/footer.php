@@ -63,12 +63,12 @@
         </div>
         <div class="container-fluid">
             <div class="container copy-right">
-                <div class="row text-center align-items-center">
-                    <div class="col-md-10 box text-start">
-                        <span class="copyright quick-links">Copyright © RECO JSC 2019. All rights reserved.</span>
+                <div class="row align-items-center">
+                    <div class="col-md-10 box">
+                        <span class="quick-links">Copyright © RECO JSC 2019. All rights reserved.</span>
                     </div>
                     <div class="col-md-2 box align-items-center">
-                        <div class="d-flex align-items-center">
+                        <div class="d-flex align-items-center list-sns-link">
                             <a href="#">
                                 <i class="fa-brands fa-facebook-square"></i>
                             </a>
